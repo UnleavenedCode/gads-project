@@ -3,6 +3,7 @@
 
 ## Objectives
 In this lab , we shall learn how to do the following:
+
     * Create a Compute Engine virtual machine using the Google Cloud Platform (GCP) Console
     * Create a Compute Engine virtual machine using the gcloud command-line interface.
     * Connect between the two instances
@@ -11,7 +12,7 @@ In this lab , we shall learn how to do the following:
 ## Task 1: Create a Virtual machine **'my-vm-1'** using the command line
 1. In the Top Right toolbar, Open the Cloud Shell Button
 2. Click **Continue** to launch the Cloud Shell in the browser.
-3. Display and Take Note of the Zone which has bene assigned to you using command below:
+3. Display and Take Note of the Zone which has been assigned to you using command below:
 
     `gcloud compute zones list  | grep us-central1-b`
 
@@ -26,7 +27,7 @@ In this lab , we shall learn how to do the following:
     --tags http
     ``` 
 
-5. Allow fire-wall ruls to allow http port using commands below:
+5. Allow fire-wall rules to allow http port using commands below:
 
     ` gcloud compute firewall-rules create allow-http --action=ALLOW --destination=INGRESS --rules=http:80 --target-tags=http `
 5. Exit the Cloud Shell by typing  `exit`
