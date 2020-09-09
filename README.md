@@ -2,11 +2,11 @@
 
 ## About this Project
 
-The GADS pratcice project is part of the Phase 2 learning Track for the Google Associate Cloud Engineer certification
+The project is part of the Phase 2 learning Track for the [Google Associate Cloud Engineer certification](https://cloud.google.com/certification/cloud-engineer).
 
 Author : Emmanuel Wacha
 
-Date : 07 September 2020
+Date Created : 07 September 2020
 
 ### Table of Contents
 
