@@ -4,7 +4,7 @@
 
 ## Objectives
 
-In this Lab, we shall leanr how to Perform the following Tasks
+In this Lab, we shall learn how to Perform the following Tasks
 
 1. Provision a [Kubernetes](https://kubernets.io) cluster using [Kubernetes Engine](https://cloud.google.com/container-engine) 
 2. Depl0y and Manage [Docker](https://www.docker.com/) Containers using `kubectl`

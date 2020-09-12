@@ -8,6 +8,11 @@ In this lab , we shall learn how to do the following:
     * Create a Compute Engine virtual machine using the gcloud command-line interface.
     * Connect between the two instances
 
+**PREREQUISITES**
+
+You Must be logged into the Google Cloud Console to Perform these Tasks
+
+
 
 ## Task 1: Create a Virtual machine **'my-vm-1'** using the command line
 1. In the Top Right toolbar, Open the Cloud Shell Button
@@ -93,5 +98,8 @@ You will return to my-vm-2 command prompt.
 
 `curl http://my-vm-1/`
 
-The response will be the HTML custom message from
+The response will be the HTML custom message you provided earlier
+
+**Disable or Delete resources you wont be using to avoid charges**
+
 
