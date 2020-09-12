@@ -13,14 +13,14 @@ Date Created : 11 September 2020 15:05 EAT
 
 
 
-![Getting Started with Compute Engine](/screenshots/Lab1-gads-project-screenshot.png)
+![Getting Started with Compute Engine](screenshots/Lab1-gads-project-screenshot.png)
 
 
 
 ## Lab 2 - Screenshot - Getting Started with GKE
 
 
-![Getting Started with Compute Engine](/screenshots/Lab1-gads-project-screenshot.png)
+![Getting Started with Compute Engine](screenshots/Lab1-gads-project-screenshot.png)
 
 
 

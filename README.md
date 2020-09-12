@@ -56,7 +56,7 @@ The following 10 Qwiklabs Labs were Completed:
 3. Lab 3 - Google Cloud Fundamentals : Google Cloud Fundamentals: Getting Started with App Engine
 
 
-4. Lab 4 - Google Cloud Fundamentals :  Getting Started with Deployment Manager and Stackdriver
+4. Lab 4 - Google Cloud Fundamentals :  Getting Started with Getting Started with BigQuery
 
 
 5. Lab 5 - Google Cloud Fundamentals: Getting Started with Cloud Storage and Cloud SQL
@@ -68,7 +68,7 @@ The following 10 Qwiklabs Labs were Completed:
 7. Lab 7 -VPC Networking
 
 
-8. Lab 8 -
+8. Lab 8 - Implement Private Google Access and Cloud NAT
 
 
 9. Lab 9 -
