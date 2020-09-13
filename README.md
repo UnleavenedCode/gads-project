@@ -53,28 +53,28 @@ The following 10 Qwiklabs Labs were Completed:
 2. Lab 2 - Google Cloud Fundamentals : Getting Started with GKE
 
 
-3. Lab 3 - Google Cloud Fundamentals : Google Cloud Fundamentals: Getting Started with App Engine
+3. Lab 3 - Google Cloud Fundamentals :  Getting Started with App Engine
 
 
-4. Lab 4 - Google Cloud Fundamentals :  Getting Started with Getting Started with BigQuery
+4. Lab 4 - Google Cloud Fundamentals :  Getting Started with BigQuery
 
 
-5. Lab 5 - Google Cloud Fundamentals: Getting Started with Cloud Storage and Cloud SQL
+5. Lab 5 - Google Cloud Fundamentals : Getting Started with Cloud Storage and Cloud SQL
 
 
-6. Lab 6 - Infrastructure Preview
+6. Lab 6 - Essential Cloud Infrasctructure : Infrastructure Preview
 
 
-7. Lab 7 -VPC Networking
+7. Lab 7 - Essential Cloud Infrasctructure : VPC Networking
 
 
-8. Lab 8 - Implement Private Google Access and Cloud NAT
+8. Lab 8 - Essential Cloud Infrasctructure : Implement Private Google Access and Cloud NAT
 
 
-9. Lab 9 -
+9. Lab 9 - Essential Cloud Infrasctructure : Creating Virtual Machines
 
 
-10. Lab 10 -
+10. Lab 10 - Essential Cloud Infrastructure : Working with Virtual Machines
 
 ### Proof of Completed Labs
 
@@ -102,6 +102,6 @@ Below are the Labs that were translated for Command Line using Google Cloud Shel
 
 ## 4. Credits
 
-* Special Thanks to all the GADS Mentors, Guides and Awesome teammates who keep sharing, unblocking and making this an Awesome Exeperience.
+* All Images are the Copyright of the Owner 
 
 * I also want to Thank ALC and Google Cloud for giving us this opportunity!!
