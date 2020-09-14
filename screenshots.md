@@ -46,37 +46,24 @@ Date Created : 11 September 2020 15:05 EAT
 ![Getting Started with Cloud Storage and Cloud SQL](screenshots/Lab5-gads-project-screenshot.png)
 
 ***
-## Lab 6 - Screenshot - 
+## Lab 6 - Screenshot 
 
 
-![Infrastrcurture Preview](screenshots/Lab6-gads-project-screenshot.png)
+![Infrastructure Preview](screenshots/Lab6-gads-project-screenshot.png)
 
 
 ***
-## Lab 7 - Screenshot - Getting Started with GKE
+## Lab 7 - Screenshot 
 
 
-![Getting Started with Compute Engine](screenshots/Lab7-gads-project-screenshot.png)
-
-
-
-
-
-
-## Lab 7 - Screenshot - Getting Started with GKE
-
-
-![Getting Started with Compute Engine](screenshots/Lab7-gads-project-screenshot.png)
-
-
-
+![VPN Networking](screenshots/Lab7-gads-project-screenshot.png)
 
 
 
 ## Lab 8 - Screenshot 
 
 
-![Getting Started with Compute Engine](screenshots/Lab8-gads-project-screenshot.png)
+![Implement Private Google Access and Cloud NAT](screenshots/Lab8-gads-project-screenshot.png)
 
 
 ***
@@ -88,7 +75,7 @@ Date Created : 11 September 2020 15:05 EAT
 
 ***
 
-## Lab 10 - Screenshot - 
+## Lab 10 - Screenshot 
 
 
 ![Working with Virtusl Machines](screenshots/Lab10-gads-project-screenshot.png)
@@ -96,4 +83,4 @@ Date Created : 11 September 2020 15:05 EAT
 ***
 ## CREDITS
 
-Special thanks to my colleague 
+Special thanks to my colleagues who Supported me through this.
