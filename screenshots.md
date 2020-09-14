@@ -16,7 +16,7 @@ Date Created : 11 September 2020 15:05 EAT
 
 
 
-## Lab 2 - Screenshot\ 
+## Lab 2 - Screenshot
 
 
 ![Getting Started with Compute Engine](screenshots/Lab1-gads-project-screenshot.png)
