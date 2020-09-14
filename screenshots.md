@@ -73,32 +73,27 @@ Date Created : 11 September 2020 15:05 EAT
 
 
 
-## Lab 8 - Screenshot - Getting Started with GKE
+## Lab 8 - Screenshot 
 
 
 ![Getting Started with Compute Engine](screenshots/Lab8-gads-project-screenshot.png)
 
 
+***
+
+## Lab 9 - Screenshot 
 
 
+![Creating Virtuals Machines](screenshots/Lab9-gads-project-screenshot.png)
+
+***
+
+## Lab 10 - Screenshot - 
 
 
-## Lab 9 - Screenshot - Getting Started with GKE
+![Working with Virtusl Machines](screenshots/Lab10-gads-project-screenshot.png)
 
-
-![Getting Started with Compute Engine](screenshots/Lab9-gads-project-screenshot.png)
-
-
-
-
-
-
-## Lab 10 - Screenshot - Getting Started with GKE
-
-
-![Getting Started with Compute Engine](screenshots/Lab10-gads-project-screenshot.png)
-
-
+***
 ## CREDITS
 
 Special thanks to my colleague 
