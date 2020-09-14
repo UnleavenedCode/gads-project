@@ -74,8 +74,6 @@ The following 10 Qwiklabs Labs were Completed:
 9. Lab 9 - Essential Cloud Infrasctructure : Creating Virtual Machines
 
 
-10. Lab 10 - Essential Cloud Infrastructure : Working with Virtual Machines
-
 ### Proof of Completed Labs
 
 Screenshots of All Completed Labs are Located in the [Screenshots](screenshots.md)

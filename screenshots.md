@@ -23,14 +23,6 @@ Date Created : 11 September 2020 15:05 EAT
 
 
 ***
-## Lab 3 - Screenshot - Getting Started with App Engine
-
-
-![Getting Started with Compute Engine](screenshots/Lab3-gads-project-screenshot.png)
-
-
-
-***
 ## Lab 4 - Screenshot 
 ***
 
@@ -74,11 +66,6 @@ Date Created : 11 September 2020 15:05 EAT
 ![Creating Virtuals Machines](screenshots/Lab9-gads-project-screenshot.png)
 
 ***
-
-## Lab 10 - Screenshot 
-
-
-![Working with Virtusl Machines](screenshots/Lab10-gads-project-screenshot.png)
 
 ***
 ## CREDITS
